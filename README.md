@@ -17,7 +17,7 @@
 
 ## MIS PROYECTOS
 <a href="LINK DEL REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ptxcode&repo=NOMBRE DEL REPO" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ptxcode&repo=ptxcode" />
 </a>
 
 
