@@ -7,7 +7,7 @@
 - 😎 Edad: 29
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ptxcode" />
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=ptxcode" />
 </a>
 
 ## LENGUAJES QUE USO:
@@ -17,7 +17,7 @@
 
 ## MIS PROYECTOS
 <a href="LINK DEL REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ptxcode&repo=ptxcode" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ptxcode&repo=ptxcode" />
 </a>
 
 
