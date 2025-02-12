@@ -16,8 +16,8 @@
 </a>
 
 ## MIS PROYECTOS
-<a href="LINK DEL REPO">
-  <img height=153 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ptxcode&repo=portfolio.github.io" />
+<a href="https://github.com/PTXCode/portfolio.github.io">
+  <img height=153 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ptxcode&repo=portfolio.github.io"/>
 </a>
 
 
